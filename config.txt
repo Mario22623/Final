@@ -25,20 +25,20 @@ password=123456789
 ; shared_folder - Absolute path to file sharing folder (ending with slash).
 ; All sent files will be stored here, don't choose a root-protected directory.
 ; Example: shared_folder=/home/user/Desktop/shared_folder/
-shared_folder=/home/Bgmijai99/
+shared_folder=/workspaces/mario22623/
 
 
 ; users_file - Absolute path to users.txt. This file content is allowed users.
 ; It will be checked on every command the bot recieves. Users ID will be
 ; hashed and stored in order to preserve anonymity.
 ; Example: users_file=/home/user/Desktop/shared_folder/users.txt
-users_file=/home/Bgmijai99/users.txt
+users_file=/workspaces/mario22623/users.txt
 
 
 ; log_file - Absolute path to log.txt. This file registers user's ID and input
 ; besides the date and time.
 ; Example: log_file=/home/user/Desktop/shared_folder/log.txt
-log_file=/home/Bgmijai99/log.txt
+log_file=/workspaces/mario22623/log.txt
 
 
 ; log_limit - Number of stored lines on log.txt.
